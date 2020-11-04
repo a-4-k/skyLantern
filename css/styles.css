@@ -8,7 +8,7 @@ h2 {font-size:30px; font-style:italic;text-shadow: 2px 2px 5px #000;}
 #clouds {
 
 /* background-color:black; */
-background-image:url(file:///E:/sky_lantern/images/sky03.jpg);
+background-image:url(https://raw.githubusercontent.com/a-4-k/skyLantern/main/images/sky03.jpg);
 height:100vh;
 overflow:hidden;
 position:relative;
